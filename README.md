@@ -1,2 +1,1 @@
-# odin-recipes
-a repo meant to improve my Github experience
+This is my new odin project which is meant to strengthen my skills in using both Github and git bash terminal in my coding journey and I believe at the end of this useful project  I will have acquired useful skills that are necessary in the coding journey
